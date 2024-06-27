@@ -81,7 +81,7 @@ ehthumbs.db
 
 # Ignore node_modules if you have frontend dependencies
 node_modules/
-
+myshop/secret.key
 # Ignore build directories
 build/
 dist/
